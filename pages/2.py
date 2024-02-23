@@ -1,9 +1,9 @@
 import streamlit as st
 import pandas as pd
-import seaborn as sns
+#import seaborn as sns
 import matplotlib.pyplot as plt
-import datetime
-import re
+#import datetime
+#import re
 
 
 from st_pages import plot_scatter_with_regression, check_and_vis_artworks

@@ -1,9 +1,9 @@
 import streamlit as st 
 import pandas as pd 
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import plotly.graph_objects as go
-import re
-import altair as alt
+#import re
+#import altair as alt
 
 from st_pages import check_and_vis_artworks
 
