@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+#import seaborn as sns
 
 from st_pages import find_most_pricey_artwork, find_less_pricey_artwork, check_and_visualize_works, average_year_price
 
